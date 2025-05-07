@@ -71,7 +71,7 @@ CQRSPlayerDemo/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/CQRSPlayerDemo.git
+git clone https://github.com/MobileApp-Dev-Kombee/CQRSPlayerDemo.git
 cd CQRSPlayerDemo
 ```
 
