@@ -102,20 +102,6 @@ Then navigate to `https://localhost:5001` in your browser.
 
 ---
 
-## 🤝 Contributions
-
-Contributions are welcome! Feel free to fork the repository and submit a pull request with enhancements or bug fixes.
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-**Enjoy building with clean architecture and CQRS!**
-
 ## 📸 Output
 
 ## Add Player :
@@ -133,4 +119,36 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Edit
 ![image](https://github.com/user-attachments/assets/3d3331c2-63a6-4bf8-9ca9-808e102126a9)
 
+---
 
+## 🤝 Contributions
+
+Contributions are welcome!  Follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature/fix.
+3. Commit changes and open a **Pull Request**.
+   
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+## 👨‍💻 **Author**
+
+**Kombee Technologies**
+
+- 🌐 [Portfolio](https://github.com/kombee-technologies)
+- 💼 [LinkedIn](https://in.linkedin.com/company/kombee-global)
+- 🌍 [Website](https://www.kombee.com/)
+
+---
+
+<p align="center">
+Enjoy building with ❤️ clean architecture and CQRS!
+</p>
+
+---
